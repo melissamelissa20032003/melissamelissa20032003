@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @melissamelissa20032003
-- 👀 I’m interested in web divelopement and  problem solving
-- 🌱 I’m currently learning css and data structure & algorithms 
-- 💞️ I’m looking to collaborate on c++ project
+- 👋 Hi, Welcome to my github, My name is Melissa BOUTLENDJ
+- 👀 I’m interested in data science and artifitial intelligence 
+- 💞️ I’m looking to collaborate on IA projects
 - 📫 How to reach me : here is my email melissaboutlendj@gmail.com
 
 <!---
