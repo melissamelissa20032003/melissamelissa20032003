@@ -1,15 +1,15 @@
 
 **My name is Melissa BOUTLENDJ I am a data scientist and IA passionated**
 
- 👋 Hi & Welcome to my github,
- 👀 I’m interested in data science and artifitial intelligence 
- 💞️ I’m looking to collaborate on IA projects
- *Contact me :*  
- email: here is my email melissaboutlendj@gmail.com 
- linkedin: https://www.linkedin.com/in/melissa-boutlendj-743a16218/
- my blogue : 
+ 👋 Hi & Welcome to my github, <br />
+ 👀 I’m interested in data science and artifitial intelligence  <br />
+ 💞️ I’m looking to collaborate on IA projects <br />
+ *Contact me :*   <br />
+ email: here is my email melissaboutlendj@gmail.com  <br />
+ linkedin: https://www.linkedin.com/in/melissa-boutlendj-743a16218/ <br />
+ my blogue :  <br />
 
-I Good at :
+I Good at : <br />
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
 
 ![dreamcatecher](https://github.com/melissamelissa20032003/CERICompiler/assets/109720240/fb19429f-e08f-40e0-a304-a5f22dd60787)
