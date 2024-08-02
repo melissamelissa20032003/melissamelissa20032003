@@ -12,7 +12,7 @@
 I Good at : <br />
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php.svg" width="50"></a>
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python.svg" width="50"></a> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java.svg" width="50"></a> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/c++.svg" width="50"></a> 
 
 ![dreamcatecher](https://github.com/melissamelissa20032003/CERICompiler/assets/109720240/fb19429f-e08f-40e0-a304-a5f22dd60787)
 <!---
