@@ -10,9 +10,7 @@
  my blogue :  <br />
 
 I Good at : <br />
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rstodio.svg" width="50"></a>
-
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/julia.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a><a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php.svg" width="50"></a>
 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php.svg" width="50"></a>
 
